@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Blogging Like a Hacker
+
+description: A short description of your site's purpose
+
+show_downloads: true
