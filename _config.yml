@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: Blogging Like a Hacker
+title: FastSQL
 
-description: A short description of your site's purpose
+description: FastSQL一个简单的访问数据库框架
 
 show_downloads: true
