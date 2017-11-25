@@ -10,7 +10,7 @@ FastSQL可以完全满足你控制欲，可以用Java代码清晰又方便地写
 
 # 如何安装
 
-要使用 FastSQL， 只需将 fastsql-x.x.x.jar 文件置于 classpath 中即可（x.x.x为对应的版本号，下同）。
+要使用 FastSQL， 只需将 fastsql-0.9.3.jar 文件置于 classpath 中即可。
 
 如果使用 Maven 来构建项目，则需将下面的 dependency 代码置于 pom.xml 文件中：
 
@@ -18,17 +18,19 @@ FastSQL可以完全满足你控制欲，可以用Java代码清晰又方便地写
 <dependency>
     <groupId>top.fastsql</groupId>
     <artifactId>fastsql</artifactId>
-    <version>x.x.x</version>
+    <version>0.9.3</version>
 </dependency>
 ```
 
 如果使用 Gradle 来构建项目，则需将下面的代码置于 build.gradle 文件的 dependencies 代码块中：
 
 ```groovy
-compile 'top.fastsql:fastsql:x.x.x'
+compile 'top.fastsql:fastsql:0.9.3'
 ```
 
-# 教程
+# 相关地址
 
-[使用教程](https://github.com/fast-sql/FastSQL/blob/master/README.md)
-
+* [使用教程](https://github.com/fast-sql/FastSQL/blob/master/README.md)
+* [GitHub地址](https://github.com/fast-sql/FastSQL)
+* [FastSQL项目组](https://github.com/fast-sql)
+* [历史版本（jar）下载](https://oss.sonatype.org/content/repositories/releases/top/fastsql/fastsql/)
