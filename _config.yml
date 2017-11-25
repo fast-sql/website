@@ -1,5 +1,5 @@
 theme: jekyll-theme-time-machine
 title: FastSQL
-description: FastSQL一个简单的访问数据库框架。
+description: FastSQL是一个简单的访问数据库框架，你可以使用它快速地构建数据库应用。
 
 #show_downloads: true

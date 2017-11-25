@@ -30,5 +30,5 @@ compile 'top.fastsql:fastsql:x.x.x'
 
 # 教程
 
-[https://github.com/fast-sql/FastSQL](https://github.com/fast-sql/FastSQL)
+[使用教程](https://github.com/fast-sql/FastSQL/blob/master/README.md)
 
