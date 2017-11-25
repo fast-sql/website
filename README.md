@@ -10,7 +10,7 @@ FastSQL可以完全满足你控制欲，可以用Java代码清晰又方便地写
 
 # 如何安装
 
-要使用 FastSQL， 只需将 fastsql-0.9.3.jar 文件置于 classpath 中即可。
+要使用 FastSQL， 只需将 fastsql-0.9.3.jar 文件置于 classpath 中即可（jar包可在 [历史版本](https://oss.sonatype.org/content/repositories/releases/top/fastsql/fastsql/) 下载）。
 
 如果使用 Maven 来构建项目，则需将下面的 dependency 代码置于 pom.xml 文件中：
 
@@ -32,5 +32,5 @@ FastSQL可以完全满足你控制欲，可以用Java代码清晰又方便地写
 
 * [使用教程](https://github.com/fast-sql/FastSQL/blob/master/README.md)
 * [GitHub地址](https://github.com/fast-sql/FastSQL)
-* [FastSQL项目组](https://github.com/fast-sql)
-* [历史版本（jar）下载](https://oss.sonatype.org/content/repositories/releases/top/fastsql/fastsql/)
+* [相关项目](https://github.com/fast-sql)
+* [历史版本](https://oss.sonatype.org/content/repositories/releases/top/fastsql/fastsql/)
