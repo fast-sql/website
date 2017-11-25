@@ -15,17 +15,17 @@ FastSQL可以完全满足你控制欲，可以用Java代码清晰又方便地写
 如果使用 Maven 来构建项目，则需将下面的 dependency 代码置于 pom.xml 文件中：
 
 ```xml
-<dependency>
-    <groupId>top.fastsql</groupId>
-    <artifactId>fastsql</artifactId>
-    <version>0.9.3</version>
-</dependency>
+  <dependency>
+      <groupId>top.fastsql</groupId>
+      <artifactId>fastsql</artifactId>
+      <version>0.9.3</version>
+  </dependency>
 ```
 
 如果使用 Gradle 来构建项目，则需将下面的代码置于 build.gradle 文件的 dependencies 代码块中：
 
 ```groovy
-compile 'top.fastsql:fastsql:0.9.3'
+  compile 'top.fastsql:fastsql:0.9.3'
 ```
 
 # 相关地址
